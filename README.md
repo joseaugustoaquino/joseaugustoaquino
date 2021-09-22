@@ -1,4 +1,5 @@
-## Oiii! Eu sou o José Augusto de Aquino 
+## <h1 style="color:blue;text-align:center;">Oiii! Eu sou o José Augusto de Aquino</h1>
+
  <div>
   <a href="https://github.com/joseaugustoaquino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseaugustoaquino&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
