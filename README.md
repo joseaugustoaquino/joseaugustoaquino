@@ -1,69 +1,81 @@
 <div align="center">
 
-# José Augusto Aquino
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0B1020,45:173B75,100:00B8D9&text=JOS%C3%89%20AUGUSTO%20AQUINO&fontColor=FFFFFF&fontSize=38&fontAlignY=36&desc=FLUTTER%20SENIOR%20%E2%80%A2%20FOUNDER%20%E2%80%A2%20PRODUCT%20BUILDER&descAlignY=58&descSize=14&animation=fadeIn" alt="José Augusto Aquino — Flutter Senior Developer, Founder e Product Builder" />
 
-### Flutter Senior Developer · Founder at 3Z Hub & 3Z Impress
+<a href="https://github.com/joseaugustoaquino?tab=followers">
+  <img src="https://img.shields.io/github/followers/joseaugustoaquino?label=FOLLOW&style=for-the-badge&color=00B8D9&labelColor=0B1020" alt="GitHub followers" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=joseaugustoaquino&style=for-the-badge&color=00B8D9&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/badge/FOUNDER-3Z%20HUB%20%26%203Z%20IMPRESS-0B1020?style=for-the-badge&labelColor=173B75" alt="Founder da 3Z Hub e 3Z Impress" />
 
-<p>
-  Transformo ideias em produtos digitais sólidos, intuitivos e prontos para escalar.
-</p>
+<br /><br />
 
-<p>
-  <a href="https://github.com/joseaugustoaquino?tab=followers">
-    <img src="https://img.shields.io/github/followers/joseaugustoaquino?label=Follow&style=for-the-badge&color=0A66C2&labelColor=111827" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/joseaugustoaquino">
-    <img src="https://komarev.com/ghpvc/?username=joseaugustoaquino&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS" alt="Profile views" />
-  </a>
-</p>
+> ### Transformo ideias em produtos digitais sólidos, intuitivos e prontos para escalar.
 
 </div>
 
----
+<br />
 
-## 🚀 Construindo na interseção de software e produto
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <strong>📱 Flutter & Dart</strong><br />
+      Apps multiplataforma, performáticos e escaláveis.
+    </td>
+    <td align="center" width="33%">
+      <strong>🛠️ 3Z Hub</strong><br />
+      Soluções e produtos digitais com propósito.
+    </td>
+    <td align="center" width="33%">
+      <strong>🖨️ 3Z Impress</strong><br />
+      Criatividade, fabricação e impressão 3D.
+    </td>
+  </tr>
+</table>
 
-Sou **desenvolvedor Flutter Senior** e fundador da **3Z Hub** e da **3Z Impress**.  
-Meu foco é transformar desafios reais em experiências digitais de alto nível — da estratégia à entrega.
+<br />
 
-- 📱 **Flutter & Dart** — aplicativos performáticos, multiplataforma e escaláveis
-- 🧠 **Produto & negócios** — tecnologia com intenção, clareza e impacto
-- 🛠️ **3Z Hub** — soluções e produtos digitais
-- 🖨️ **3Z Impress** — criatividade, fabricação e impressão 3D
+## <img src="https://img.shields.io/badge/01-00B8D9?style=flat-square&labelColor=0B1020" alt="01" /> Sobre
+
+Sou **desenvolvedor Flutter Senior** e fundador da **3Z Hub** e da **3Z Impress**. Meu foco é transformar desafios reais em experiências digitais de alto nível — da estratégia à entrega.
 
 > Construo produtos que não apenas funcionam — eles deixam uma impressão.
 
-## 🧩 Stack principal
+## <img src="https://img.shields.io/badge/02-00B8D9?style=flat-square&labelColor=0B1020" alt="02" /> Stack principal
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,typescript,javascript,react,python,cs,git,github&theme=dark" alt="Tecnologias: Flutter, Dart, Firebase, TypeScript, JavaScript, React, Python, C Sharp, Git e GitHub" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,typescript,javascript,react,python,cs,git,github&theme=dark" alt="Flutter, Dart, Firebase, TypeScript, JavaScript, React, Python, C Sharp, Git e GitHub" />
 </div>
 
 <br />
 
-## 📊 Atividade
+## <img src="https://img.shields.io/badge/03-00B8D9?style=flat-square&labelColor=0B1020" alt="03" /> Atividade
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=joseaugustoaquino&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de José Augusto" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=joseaugustoaquino&theme=tokyonight&hide_border=true" alt="Sequência de contribuições de José Augusto" />
-</div>
-
-## 🤝 Vamos criar algo relevante?
-
-<div align="left">
-  <a href="https://www.instagram.com/jose_augusto_aquino/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:joseaugustoaquino030@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/jos%C3%A9-augusto-de-aquino-691b72180">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joseaugustoaquino&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=00B8D9&icon_color=00B8D9" alt="Estatísticas do GitHub de José Augusto" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=joseaugustoaquino&theme=tokyonight&hide_border=true&ring=00B8D9&fire=00B8D9&currStreakLabel=00B8D9" alt="Sequência de contribuições de José Augusto" />
 </div>
 
 <br />
 
 <div align="center">
-  <sub>3Z Hub · 3Z Impress · Software feito para mover ideias adiante.</sub>
+
+## Vamos criar algo relevante?
+
+<a href="https://www.instagram.com/jose_augusto_aquino/">
+  <img src="https://img.shields.io/badge/Instagram-0B1020?style=for-the-badge&logo=instagram&logoColor=00B8D9" alt="Instagram" />
+</a>
+<a href="mailto:joseaugustoaquino030@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0B1020?style=for-the-badge&logo=gmail&logoColor=00B8D9" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/jos%C3%A9-augusto-de-aquino-691b72180">
+  <img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=00B8D9" alt="LinkedIn" />
+</a>
+
+<br /><br />
+
+<sub>3Z Hub · 3Z Impress · Software feito para mover ideias adiante.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=95&section=footer&color=0:0B1020,45:173B75,100:00B8D9" alt="" />
+
 </div>
