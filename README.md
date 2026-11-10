@@ -52,7 +52,7 @@ Sou **desenvolvedor Flutter Senior** e fundador da **3Z Hub** e da **3Z Impress*
 ## <img src="https://img.shields.io/badge/03-00B8D9?style=flat-square&labelColor=0B1020" alt="03" /> Atividade
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joseaugustoaquino&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=00B8D9&icon_color=00B8D9" alt="Estatísticas do GitHub de José Augusto" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=joseaugustoaquino&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=00B8D9&icon_color=00B8D9" alt="Estatísticas do GitHub de José Augusto" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=joseaugustoaquino&theme=tokyonight&hide_border=true&ring=00B8D9&fire=00B8D9&currStreakLabel=00B8D9" alt="Sequência de contribuições de José Augusto" />
 </div>
 
