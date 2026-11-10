@@ -1,16 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0B1020,45:173B75,100:00B8D9&text=JOS%C3%89%20AUGUSTO%20AQUINO&fontColor=FFFFFF&fontSize=38&fontAlignY=36&desc=FLUTTER%20SENIOR%20%E2%80%A2%20FOUNDER%20%E2%80%A2%20PRODUCT%20BUILDER&descAlignY=58&descSize=14&animation=fadeIn" alt="José Augusto Aquino — Flutter Senior Developer, Founder e Product Builder" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0B1020,45:173B75,100:00B8D9&text=JOS%C3%89%20AUGUSTO%20AQUINO&fontColor=FFFFFF&fontSize=38&fontAlignY=36&desc=FLUTTER%20S%C3%8ANIOR%20%E2%80%A2%203Z%20HUB%20%E2%80%A2%203Z%20IMPRESS&descAlignY=58&descSize=14&animation=fadeIn" alt="José Augusto Aquino, Desenvolvedor Flutter Sênior, 3Z Hub e 3Z Impress" />
 
 <a href="https://github.com/joseaugustoaquino?tab=followers">
-  <img src="https://img.shields.io/github/followers/joseaugustoaquino?label=FOLLOW&style=for-the-badge&color=00B8D9&labelColor=0B1020" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/joseaugustoaquino?label=SEGUIR&style=for-the-badge&color=00B8D9&labelColor=0B1020" alt="Seguidores no GitHub" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=joseaugustoaquino&style=for-the-badge&color=00B8D9&label=PROFILE+VIEWS" alt="Profile views" />
-<img src="https://img.shields.io/badge/FOUNDER-3Z%20HUB%20%26%203Z%20IMPRESS-0B1020?style=for-the-badge&labelColor=173B75" alt="Founder da 3Z Hub e 3Z Impress" />
+<img src="https://komarev.com/ghpvc/?username=joseaugustoaquino&style=for-the-badge&color=00B8D9&label=VISITAS+NO+PERFIL" alt="Visitas no perfil" />
+<img src="https://img.shields.io/badge/FUNDADOR-3Z%20HUB%20%26%203Z%20IMPRESS-0B1020?style=for-the-badge&labelColor=173B75" alt="Fundador da 3Z Hub e 3Z Impress" />
 
 <br /><br />
 
-> ### Transformo ideias em produtos digitais sólidos, intuitivos e prontos para escalar.
+### Desenvolvedor Flutter Sênior e fundador da 3Z Hub e da 3Z Impress.
 
 </div>
 
@@ -20,28 +20,28 @@
   <tr>
     <td align="center" width="33%">
       <strong>📱 Flutter & Dart</strong><br />
-      Apps multiplataforma, performáticos e escaláveis.
+      Desenvolvimento de aplicativos para Android, iOS e Web.
     </td>
     <td align="center" width="33%">
       <strong>🛠️ 3Z Hub</strong><br />
-      Soluções e produtos digitais com propósito.
+      Produtos e soluções digitais.
     </td>
     <td align="center" width="33%">
       <strong>🖨️ 3Z Impress</strong><br />
-      Criatividade, fabricação e impressão 3D.
+      Projetos e impressão 3D.
     </td>
   </tr>
 </table>
 
 <br />
 
-## <img src="https://img.shields.io/badge/01-00B8D9?style=flat-square&labelColor=0B1020" alt="01" /> Sobre
+## <img src="https://img.shields.io/badge/01-00B8D9?style=flat-square&labelColor=0B1020" alt="01" /> Sobre mim
 
-Sou **desenvolvedor Flutter Senior** e fundador da **3Z Hub** e da **3Z Impress**. Meu foco é transformar desafios reais em experiências digitais de alto nível — da estratégia à entrega.
+Sou desenvolvedor Flutter Sênior. Trabalho com aplicativos multiplataforma, produtos digitais e soluções que resolvem problemas reais.
 
-> Construo produtos que não apenas funcionam — eles deixam uma impressão.
+Também sou fundador da **3Z Hub** e da **3Z Impress**, projetos que unem tecnologia, criação e produto.
 
-## <img src="https://img.shields.io/badge/02-00B8D9?style=flat-square&labelColor=0B1020" alt="02" /> Stack principal
+## <img src="https://img.shields.io/badge/02-00B8D9?style=flat-square&labelColor=0B1020" alt="02" /> Tecnologias
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,typescript,javascript,react,python,cs,git,github&theme=dark" alt="Flutter, Dart, Firebase, TypeScript, JavaScript, React, Python, C Sharp, Git e GitHub" />
@@ -60,7 +60,7 @@ Sou **desenvolvedor Flutter Senior** e fundador da **3Z Hub** e da **3Z Impress*
 
 <div align="center">
 
-## Vamos criar algo relevante?
+## Contato
 
 <a href="https://www.instagram.com/jose_augusto_aquino/">
   <img src="https://img.shields.io/badge/Instagram-0B1020?style=for-the-badge&logo=instagram&logoColor=00B8D9" alt="Instagram" />
@@ -74,7 +74,7 @@ Sou **desenvolvedor Flutter Senior** e fundador da **3Z Hub** e da **3Z Impress*
 
 <br /><br />
 
-<sub>3Z Hub · 3Z Impress · Software feito para mover ideias adiante.</sub>
+<sub>3Z Hub · 3Z Impress</sub>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=95&section=footer&color=0:0B1020,45:173B75,100:00B8D9" alt="" />
 
